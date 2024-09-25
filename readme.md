@@ -1,82 +1,62 @@
-<!--
-**MehediBinAbdusSalam/MehediBinAbdusSalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Introduction with a cool typing effect and a custom emoji set -->
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Mohammad+Ziaul+Hoque+Sp..;Flutter+Developer+Android+iOS;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-    
+  <img src="https://readme-typing-svg.herokuapp.com?color=F08080&width=500&height=30&lines=Hi+%F0%9F%91%8B,+I'm+Shahporan!;A+Passionate+Flutter+Developer;Creating+Cross-Platform+Mobile+Apps;Open+Source+Enthusiast;Always+Learning,+Always+Growing!">
+</p>
 
-    
-# 🖥️ Technical Skills: 
-###
-<div align="left">
-  <img src="https://www.svgrepo.com/show/452158/apple.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" height="40" alt="Android Studio logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/452155/android.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/373604/flutter.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/452129/vs-code.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/353631/dart.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/452202/figma.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/452233/ios.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/452083/pc.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/452062/microsoft.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/452159/app-store.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/452211/github.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/452223/google-play.svg" height="40" alt="csharp logo"  />
- <img width="12" />
-  <img src="https://www.svgrepo.com/show/452128/visa.svg" height="40" alt="csharp logo"  />
+<p align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="100"/>
+</p>
+
+---
+
+### 👨‍💻 About Me:
+
+- 🖥 I’m currently working on **Flutter Apps** for both iOS and Android
+- 🌱 I’m learning **GraphQL and Firebase integration** for real-time mobile apps
+- 🏗️ I love contributing to **Open Source** and sharing my knowledge with the developer community
+- 💬 Ask me about **Flutter**, **Dart**, or **Mobile App Architecture**—I’m happy to help!
+
+---
+
+### 🛠️ My Tech Toolbox:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
-###
+---
 
-# 📊 GitHub Stats:
-
+### 📈 GitHub Stats:
 <p align="center">
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahporan73&theme=dark&hide_border=true"/>
-
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
-
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahporan73&show_icons=true&theme=transparent" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahporan73&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Shahporan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahporan73&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </p>
-   
- </br>
 
+---
+
+### 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shahporan73&theme=onedark&no-frame=true&margin-w=4" alt="GitHub Trophies">
 </p>
-<br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahporan73&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="sarwar contribution graph"/>
-<br/>
 
-###
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shahporan73&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+
+### 🔥 Contributions:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahporan73&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 📊 Weekly Development Breakdown (WakaTime):
 <!--START_SECTION:waka-->
-
 ```text
-Dart   3 hrs 58 mins    █████████████████████████   100.00 %
-```
-<!--END_SECTION:waka-->
+Dart         4 hrs 21 mins   ████████████████████░░░░   83.2%
+YAML         36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+Other        24 mins         █████░░░░░░░░░░░░░░░░░░░░   6.8%
