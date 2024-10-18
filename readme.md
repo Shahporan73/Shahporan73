@@ -1,6 +1,6 @@
 <!-- Introduction with a cool typing effect and a custom emoji set -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F08080&width=500&height=30&lines=Hi+%F0%9F%91%8B,+I'm+Shahporan!;A+Passionate+Flutter+Developer;Creating+Cross-Platform+Mobile+Apps;Open+Source+Enthusiast;Always+Learning,+Always+Growing!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F08080&width=500&height=30&lines=Hi+%F0%9F%91%8B,+I'm+Md.+Ziaul+Hoque!;A+Passionate+Flutter+Developer;Creating+Cross-Platform+Mobile+Apps;Open+Source+Enthusiast;Always+Learning,+Always+Growing!">
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahporan73&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Shahporan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahporan73&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Ziaul's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahporan73&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </p>
 
